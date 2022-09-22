@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  HVis - Visual Help for the needed ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciência da Computação Manhã - 2022/2 PUC Minas ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Arthur Lima Figueiredo Pfeilsticker
+> - Leonardo Buldrini Marques
+> - Lucas Morato de Oliveira Xavier
+> - Matheus Rezende Medeiros
 
 # Estrutura do Documento
 
@@ -58,12 +56,7 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+> No mundo atual, é indispensável o uso de tecnologias como a internet e smartphones para se viver da maneira que se deseja. Contudo, ainda há aqueles que, por alguma razão, não conseguem se adaptar muito bem a este modelo proposto. Deficientes visuais são um dos grupos que mais sofrem com essa adaptação, visto que quase tudo na internet é modelado para a visão. Um dos recursos mais utilizados nos dias atuais é o agendamento de serviços pela internetr e as compras on-line. O grupo citado acima, apesar de alguns sites oferecerem o suporte a LIBRAS, nem sempre consegue usufruir deste recurso, visto que não foi adaptado para os mesmos.
 >
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
@@ -78,11 +71,7 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> A HVis possui como objetivo dar suporte àqueles que possuem algum tipo de deficiência visual, no quesito de fornecimento de suporte médico e domiciliar, quanto resgatar artefatos e aparelhos que fazem parte do dia-a-dia do mesmo. Dentro da HVis, vamos oferecer ao usuário 3 principais funcionalidades: Um banco de dados de cuidadores, baseado em diversos outras organizações; Um campo de pesquisa de médicos filtrado pelos critérios de localização e espcialidade fornecido pelo usuário; e por fim uma ferramenta de busca de aparelhos de saúde que podem ser comprados online. Todo o site terá uma ferramenta de TTS (Text-to-Speech) para ajudar aqueles que não consegem ler.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -91,10 +80,7 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
+> A principal motivação para o desenvolvimento do HVis, é o fornecimento de suporte àqueles com deficiência visual, visto que muitas vezes eles não conseguem realizar múltiplas tarefas que são necessárias no dia-a-dia. Visamos trazer à realidade deste grupo um meio de agendamento de serviços online e construir uma ponte entre aqueles que precisam de ajuda e aos que podem ajudar, como voluntários e médicos.
 > 
 > O grupo de trabalho pode fazer uso de questionários, entrevistas e
 > dados estatísticos, que podem ser apresentados, com o objetivo de
