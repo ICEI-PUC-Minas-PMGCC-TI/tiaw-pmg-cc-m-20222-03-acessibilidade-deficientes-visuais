@@ -63,16 +63,7 @@ A HVis possui como objetivo dar suporte àqueles que possuem algum tipo de defic
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A principal motivação para o desenvolvimento do HVis, é o fornecimento de suporte àqueles com deficiência visual, visto que muitas vezes eles não conseguem realizar múltiplas tarefas que são necessárias no dia-a-dia. Visamos trazer à realidade deste grupo um meio de agendamento de serviços online e construir uma ponte entre aqueles que precisam de ajuda e aos que podem ajudar, como voluntários e médicos.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A principal motivação para o desenvolvimento do HVis, é o fornecimento de suporte àqueles com deficiência visual, visto que muitas vezes eles não conseguem realizar múltiplas tarefas que são necessárias no dia-a-dia. Visamos trazer à realidade deste grupo um meio de agendamento de serviços online e construir uma ponte entre aqueles que precisam de ajuda e aos que podem ajudar, como voluntários e médicos.
 
 ## Público-Alvo
 
