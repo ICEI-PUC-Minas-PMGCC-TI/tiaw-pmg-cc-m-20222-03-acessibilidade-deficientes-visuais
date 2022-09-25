@@ -125,6 +125,8 @@ A HVis possui como objetivo dar suporte àqueles que possuem algum tipo de defic
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
+> ![image](https://user-images.githubusercontent.com/47866086/192167447-652409c7-dc4a-4e6e-9769-b88f2916b018.png)
+
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
