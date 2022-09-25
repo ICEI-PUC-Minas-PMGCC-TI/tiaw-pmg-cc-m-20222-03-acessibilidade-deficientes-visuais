@@ -54,27 +54,12 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> No mundo atual, é indispensável o uso de tecnologias como a internet e smartphones para se viver da maneira que se deseja. Contudo, ainda há aqueles que, por alguma razão, não conseguem se adaptar muito bem a este modelo proposto. Deficientes visuais são um dos grupos que mais sofrem com essa adaptação, visto que quase tudo na internet é modelado para a visão. Um dos recursos mais utilizados nos dias atuais é o agendamento de serviços pela internetr e as compras on-line. O grupo citado acima, apesar de alguns sites oferecerem o suporte a LIBRAS, nem sempre consegue usufruir deste recurso, visto que não foi adaptado para os mesmos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+No mundo atual, é indispensável o uso de tecnologias como a internet e smartphones para se viver da maneira que se deseja. Contudo, ainda há aqueles que, por alguma razão, não conseguem se adaptar muito bem a este modelo proposto. Deficientes visuais são um dos grupos que mais sofrem com essa adaptação, visto que quase tudo na internet é modelado para a visão. Um dos recursos mais utilizados nos dias atuais é o agendamento de serviços pela internetr e as compras on-line. O grupo citado acima, apesar de alguns sites oferecerem o suporte a LIBRAS, nem sempre consegue usufruir deste recurso, visto que não foi adaptado para os mesmos.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A HVis possui como objetivo dar suporte àqueles que possuem algum tipo de deficiência visual, no quesito de fornecimento de suporte médico e domiciliar, quanto resgatar artefatos e aparelhos que fazem parte do dia-a-dia do mesmo. Dentro da HVis, vamos oferecer ao usuário 3 principais funcionalidades: Um banco de dados de cuidadores, baseado em diversos outras organizações; Um campo de pesquisa de médicos filtrado pelos critérios de localização e espcialidade fornecido pelo usuário; e por fim uma ferramenta de busca de aparelhos de saúde que podem ser comprados online. Todo o site terá uma ferramenta de TTS (Text-to-Speech) para ajudar aqueles que não consegem ler.
 
-> A HVis possui como objetivo dar suporte àqueles que possuem algum tipo de deficiência visual, no quesito de fornecimento de suporte médico e domiciliar, quanto resgatar artefatos e aparelhos que fazem parte do dia-a-dia do mesmo. Dentro da HVis, vamos oferecer ao usuário 3 principais funcionalidades: Um banco de dados de cuidadores, baseado em diversos outras organizações; Um campo de pesquisa de médicos filtrado pelos critérios de localização e espcialidade fornecido pelo usuário; e por fim uma ferramenta de busca de aparelhos de saúde que podem ser comprados online. Todo o site terá uma ferramenta de TTS (Text-to-Speech) para ajudar aqueles que não consegem ler.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
