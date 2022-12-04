@@ -1,5 +1,5 @@
 # Como rodar o Projeto
 
-Abrir VSCode;
+Abrir o Projeto com o VSCode;
 Instalar a Extensão 'LiveServer';
 Rodar a Extensão 'LiveServer'.
